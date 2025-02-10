@@ -12,7 +12,7 @@ This is readme.md file in the local repo and added using git command line.
 - **git branch -M (name of the branch)**
 - **git checkout "branch name" (change the branch)**
 - **git branch -b "branch name" (create a branch)**
-- **git checkout -d "branch name" (delete a branch)**
+- **git branch -d "branch name" (delete a branch)**
 
 ## Here is the github image
 ![image](./git.jpg)
